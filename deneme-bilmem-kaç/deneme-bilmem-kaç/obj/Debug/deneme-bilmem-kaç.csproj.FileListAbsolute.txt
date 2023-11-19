@@ -1,0 +1,11 @@
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\obj\Debug\deneme-bilmem-kaç.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\obj\Debug\deneme-bilmem-kaç.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\obj\Debug\deneme_bilmem_kaç.Form1.resources
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\obj\Debug\deneme_bilmem_kaç.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\obj\Debug\deneme-bilmem-kaç.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\obj\Debug\deneme-bilmem-kaç.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\bin\Debug\deneme-bilmem-kaç.exe.config
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\bin\Debug\deneme-bilmem-kaç.exe
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\bin\Debug\deneme-bilmem-kaç.pdb
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\obj\Debug\deneme-bilmem-kaç.exe
+C:\Users\Ogrenci\Desktop\23.10.2023\deneme-bilmem-kaç\deneme-bilmem-kaç\obj\Debug\deneme-bilmem-kaç.pdb

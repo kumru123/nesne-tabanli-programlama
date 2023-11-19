@@ -1,0 +1,10 @@
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\bin\Debug\sinav_calismasi_2.exe.config
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\bin\Debug\sinav_calismasi_2.exe
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\bin\Debug\sinav_calismasi_2.pdb
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\obj\Debug\sinav_calismasi_2.csproj.AssemblyReference.cache
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\obj\Debug\sinav_calismasi_2.Form1.resources
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\obj\Debug\sinav_calismasi_2.Properties.Resources.resources
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\obj\Debug\sinav_calismasi_2.csproj.GenerateResource.cache
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\obj\Debug\sinav_calismasi_2.csproj.CoreCompileInputs.cache
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\obj\Debug\sinav_calismasi_2.exe
+C:\Users\andac\Desktop\kudu\CSharp\sinav_calismasi_2\sinav_calismasi_2\obj\Debug\sinav_calismasi_2.pdb

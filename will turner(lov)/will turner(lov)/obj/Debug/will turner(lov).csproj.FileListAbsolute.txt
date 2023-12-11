@@ -1,0 +1,11 @@
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\bin\Debug\will turner(lov).exe.config
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\bin\Debug\will turner(lov).exe
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\bin\Debug\will turner(lov).pdb
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\obj\Debug\will turner(lov).csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\obj\Debug\will turner(lov).csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\obj\Debug\will_turner_lov_.Form1.resources
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\obj\Debug\will_turner_lov_.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\obj\Debug\will turner(lov).csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\obj\Debug\will turner(lov).csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\obj\Debug\will turner(lov).exe
+C:\Users\Ogrenci\Desktop\Visual Studio Projects\will turner(lov)\will turner(lov)\obj\Debug\will turner(lov).pdb

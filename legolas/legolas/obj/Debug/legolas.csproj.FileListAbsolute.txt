@@ -1,0 +1,11 @@
+C:\Users\Ogrenci\Desktop\legolas\legolas\bin\Debug\legolas.exe.config
+C:\Users\Ogrenci\Desktop\legolas\legolas\bin\Debug\legolas.exe
+C:\Users\Ogrenci\Desktop\legolas\legolas\bin\Debug\legolas.pdb
+C:\Users\Ogrenci\Desktop\legolas\legolas\obj\Debug\legolas.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\legolas\legolas\obj\Debug\legolas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogrenci\Desktop\legolas\legolas\obj\Debug\legolas.Form1.resources
+C:\Users\Ogrenci\Desktop\legolas\legolas\obj\Debug\legolas.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\legolas\legolas\obj\Debug\legolas.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\legolas\legolas\obj\Debug\legolas.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\legolas\legolas\obj\Debug\legolas.exe
+C:\Users\Ogrenci\Desktop\legolas\legolas\obj\Debug\legolas.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ogrenci\Desktop\las\las\bin\Debug\las.exe.config
+C:\Users\Ogrenci\Desktop\las\las\bin\Debug\las.exe
+C:\Users\Ogrenci\Desktop\las\las\bin\Debug\las.pdb
+C:\Users\Ogrenci\Desktop\las\las\obj\Debug\las.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\las\las\obj\Debug\las.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogrenci\Desktop\las\las\obj\Debug\las.Form1.resources
+C:\Users\Ogrenci\Desktop\las\las\obj\Debug\las.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\las\las\obj\Debug\las.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\las\las\obj\Debug\las.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\las\las\obj\Debug\las.exe
+C:\Users\Ogrenci\Desktop\las\las\obj\Debug\las.pdb

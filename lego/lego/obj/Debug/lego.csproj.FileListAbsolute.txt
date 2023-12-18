@@ -1,0 +1,11 @@
+C:\Users\Ogrenci\Desktop\lego\lego\bin\Debug\lego.exe.config
+C:\Users\Ogrenci\Desktop\lego\lego\bin\Debug\lego.exe
+C:\Users\Ogrenci\Desktop\lego\lego\bin\Debug\lego.pdb
+C:\Users\Ogrenci\Desktop\lego\lego\obj\Debug\lego.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\lego\lego\obj\Debug\lego.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogrenci\Desktop\lego\lego\obj\Debug\lego.Form1.resources
+C:\Users\Ogrenci\Desktop\lego\lego\obj\Debug\lego.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\lego\lego\obj\Debug\lego.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\lego\lego\obj\Debug\lego.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\lego\lego\obj\Debug\lego.exe
+C:\Users\Ogrenci\Desktop\lego\lego\obj\Debug\lego.pdb

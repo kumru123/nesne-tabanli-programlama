@@ -1,25 +1,18 @@
 #include <LiquidCrystal_I2C.h>
-
-LiquidCrystal_I2C lcd  (0x27, 16, 2);
-void setup(){ 
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+void setup() {
 lcd.begin();
+lcd.print("SICAKLIK");
 }
-
 void loop() {
+int sensor = analogRead(A0);
 
-lcd.clear();
-delay(1000);
-lcd.setCursor(0, 0);
-lcd.print("Tavuk Doner");
-delay(1000);
+
+float analog = sensor * 5.0;
+analog = analog /1024.0;
+float c = (analog - 0.5) * 10 +5 ;
 lcd.setCursor(0, 1);
-lcd.print("50 TL");
-delay(1000);
-
-for (int x = 1; x<= 5; x++){
-  lcd.noBacklight();
-  delay(500);
-  lcd.backlight();
-  delay(500);
-}
+lcd.print(c);
+lcd.setCursor(5, 1);
+lcd.print("C");
 }

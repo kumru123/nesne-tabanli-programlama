@@ -1,0 +1,10 @@
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\bin\Debug\legolaas.exe.config
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\bin\Debug\legolaas.exe
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\bin\Debug\legolaas.pdb
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\obj\Debug\legolaas.csproj.AssemblyReference.cache
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\obj\Debug\legolaas.Form1.resources
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\obj\Debug\legolaas.Properties.Resources.resources
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\obj\Debug\legolaas.csproj.GenerateResource.cache
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\obj\Debug\legolaas.csproj.CoreCompileInputs.cache
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\obj\Debug\legolaas.exe
+C:\Users\andac\Desktop\kudu\CSharp\legolaas\legolaas\obj\Debug\legolaas.pdb
